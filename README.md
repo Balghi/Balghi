@@ -51,23 +51,23 @@ My work often revolves around transforming abstract ideas into deployable, high-
 
 ## 🚀 Featured Projects
 
-### 🎯 [AI-Based Public Transportation Optimization](https://github.com/Balghi/public-transport-optimization)
+### 🎯 [AI-Based Public Transportation Optimization](https://ua3innovations.github.io)
 A complete AI-driven optimization system for reducing waiting times in Ankara's public bus network.  
 🧠 Supported by **TUSAŞ LIFT-UP** and **TÜBİTAK 2209-B**.  
 `Genetic Algorithm` · `Prophet` · `ARIMA` · `LSTM` · `Python` · `scikit-learn` · `matplotlib`
 
 ---
 
-### 🖼️ [ChromaNet – Image Colorization & Super-Resolution](https://huggingface.co/spaces/Balghi/chromanet)
+### 🖼️ [ChromaNet – Image Colorization & Super-Resolution](https://huggingface.co/spaces/canmizrakli/colorization-app-final)
 A deep learning project to bring grayscale images to life using GANs and Real-ESRGAN.  
 📖 [Read the article on Medium](https://medium.com/@mizraklican/chromanet-a-deep-dive-into-ai-powered-image-colorization-and-super-resolution-37c687ee46d1)  
 `U-Net GAN` · `Real-ESRGAN` · `Gradio` · `PyTorch` · `Hugging Face Spaces`
 
 ---
 
-### 🎬 [Movie Recommendation System](https://github.com/Balghi/movie-recommender)
-Content-based recommender engine using cosine similarity.  
-`Python` · `scikit-learn` · `MongoDB` · `Django`
+### 🎬 [Age Classifier](https://github.com/Balghi/age-classifier)
+A deep learning project to classify ages from uploaded photos with FastAI.
+`Python` · `FastAI` · `Gradio` · `Hugging Face Spaces`
 
 ---
 
