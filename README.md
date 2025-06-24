@@ -80,5 +80,5 @@ Content-based recommender engine using cosine similarity.
 
 ---
 
-📌 _“Code is the paint, and the world is my canvas.”_  
+📌 _“Engineering is the ultimate art of problem solving, and my palette is my computer.”_  
 
